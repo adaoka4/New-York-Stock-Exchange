@@ -4,6 +4,8 @@ In this project, I calculated summary statistics, drew inferences from the stati
 
 I used a combination of Excel or Google Sheets functions (e.g., AVERAGE, MEDIAN, STDEV, IF statements, INDEX, and MATCH, calculating descriptive statistics with the IF statement, VLOOKUP) and tools like dropdowns, data validation, pivot tables.
 
+The P&L dashboard and Financial forecast model as well as other relevant analysis can be found [here](The P&L dashboard and Financial forecast model as well as other relevant analysis can be found here).
+
 
 
 
